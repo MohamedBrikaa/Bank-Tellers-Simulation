@@ -3,12 +3,11 @@ Simulation of Multi-Core CPU Scheduling Algorithm thorough banking system applic
 
 this is a readme file for the Banking project
 	1-) allocation of customers dependes on number of waiting customers on queue 
-	2-) if a queue has less number of customers then the customer will 
-		automatically leave its queue and move to the other queue. 
+	2-) if a queue has less number of customers then the customer will automatically leave its queue and move to the other queue.
 ========================================================
 the user enters the data for customers 
-	1-enter the arrival time 
-	2-enter the execution time for each employee
+	1- enter the arrival time 
+	2- enter the execution time for each employee
 	3- choose to enter another customer or not
 ========================================================
 after finishing by enter (n)
